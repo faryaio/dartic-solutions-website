@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
+title = "Dartic Solution"
 languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://localhost:1313/"
+theme = "massively"
+
+publishDir = "docs"
+
+
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.fr]
+  languageName = "Français"
+  title = "Dartic Solution"
