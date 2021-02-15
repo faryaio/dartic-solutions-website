@@ -1,6 +1,6 @@
 title = "Dartic Solutions"
 languageCode = "en-us"
-baseURL = "http://localhost:1313/"
+baseURL = "https://faryaio.github.io/dartic-solutions-website/"
 theme = "massively"
 
 publishDir = "docs"
