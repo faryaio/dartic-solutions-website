@@ -3,76 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/fr/categories/</loc>
+    <loc>https://faryaio.github.io/dartic-solutions-website/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://faryaio.github.io/dartic-solutions-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
+                href="https://faryaio.github.io/dartic-solutions-website/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/fr/</loc>
+    <loc>https://faryaio.github.io/dartic-solutions-website/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://faryaio.github.io/dartic-solutions-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/"
+                href="https://faryaio.github.io/dartic-solutions-website/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/fr/post/</loc>
+    <loc>https://faryaio.github.io/dartic-solutions-website/fr/post/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://faryaio.github.io/dartic-solutions-website/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/post/"
+                href="https://faryaio.github.io/dartic-solutions-website/fr/post/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/fr/tags/</loc>
+    <loc>https://faryaio.github.io/dartic-solutions-website/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://faryaio.github.io/dartic-solutions-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/tags/"
+                href="https://faryaio.github.io/dartic-solutions-website/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost:1313/fr/post/post/</loc>
+    <loc>https://faryaio.github.io/dartic-solutions-website/fr/post/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/post/"
+                href="https://faryaio.github.io/dartic-solutions-website/post/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/post/post/"
+                href="https://faryaio.github.io/dartic-solutions-website/fr/post/post/"
                 />
   </url>
   
