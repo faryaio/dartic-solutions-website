@@ -1,4 +1,4 @@
-title = "Dartic Solution"
+title = "Dartic Solutions"
 languageCode = "en-us"
 baseURL = "http://localhost:1313/"
 theme = "massively"
@@ -11,4 +11,4 @@ publishDir = "docs"
   languageName = "English"
 [languages.fr]
   languageName = "Français"
-  title = "Dartic Solution"
+  title = "Dartic Solutions"
