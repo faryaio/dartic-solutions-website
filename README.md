@@ -29,20 +29,29 @@ This operation was already performed please ignore.
 
 ## Theme massively First install
 
+This operation was already performed please ignore.
+
 Follow the documentation above to setup [massively theme](https://github.com/curtistimson/hugo-theme-massively)
-If it was not done, otherwise just ignore.
 
 
 ## Configuration
 
+Update the `config.toml` file.
+
 
 ## Main page
+
+There is no Main page, the content is in `/data/` directory into intro files.
 
 
 ## Posts
 
+The posts contents is in `/content/` directory ordered by main post then posts with numbers in suffix.
+
 
 ## Links
+
+The links are in `/data/` directory, see social files.
 
 
 ## Google Analytics
@@ -54,7 +63,7 @@ Follow this documentation of [hugo internal](https://gohugo.io/templates/interna
 
 ## Deploy
 
-To deploy website just run the:
+To deploy website just run the deploy script:
 
 ```bash
 ./deploy.sh
